@@ -5,8 +5,8 @@ import "./globals.css";
 const inconsolata = Inconsolata({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Spend Tracker",
-  description: "Track your spending",
+  title: "Synapsique",
+  description: "Track your Trades",
 };
 
 export default function RootLayout({

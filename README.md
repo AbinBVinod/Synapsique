@@ -1,7 +1,5 @@
-```
-bun Install
 
-```
- 
 
- Synapsique  Track Your Crypto Trades 
+```bash
+bun dev
+```
